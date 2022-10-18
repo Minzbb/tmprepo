@@ -1,0 +1,2 @@
+$ cat requirements.txt
+Flask==1.0.2
